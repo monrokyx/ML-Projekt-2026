@@ -1,0 +1,8 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.hf_cache/
+.mplconfig/
+.DS_Store
+Thumbs.db
